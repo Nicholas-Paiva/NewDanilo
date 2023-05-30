@@ -1,7 +1,7 @@
 import React, {useState} from "react"
 import ConfigDrawer from "../Components/Habilidades/Drawer/Drawer"
 import { Box, Text, Button, Select, NumberInput, NumberInputField, NumberInputStepper, NumberIncrementStepper, NumberDecrementStepper, } from "@chakra-ui/react"
-import './rollDice.css'
+import './RollDice.css'
 
 function RollDice(){
 
