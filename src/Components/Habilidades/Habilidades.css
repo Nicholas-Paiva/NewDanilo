@@ -1,0 +1,21 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+.levelDiv{
+    display: flex;
+    height: 30px;
+}
+.habDiv{
+    text-align: center;
+    width: 100%;
+}
+
+.habDiv input{
+    text-align: center;
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
